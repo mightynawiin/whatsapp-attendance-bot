@@ -13,6 +13,33 @@ This project automates the complete flow of:
 It is designed to handle **JavaScript-heavy portals** where traditional API or request-based scraping is not possible.
 
 ---
+# 📱 WhatsApp Attendance Bot
+
+A WhatsApp bot that automatically fetches student attendance from a college portal and delivers the report directly on WhatsApp using browser automation.
+
+---
+
+## ⏳ Request Processing
+
+When a user sends their roll number and password, the bot immediately acknowledges the request and starts processing the attendance in the background.
+
+![Fetching Attendance](assets/1.png)
+
+---
+
+## ✅ Attendance Report Delivered
+
+After successful login and scraping, the bot sends a detailed subject-wise attendance report along with the overall average percentage.
+
+![Attendance Report](assets/2.png)
+
+---
+
+### ⚙️ Built Using
+Flask · Twilio WhatsApp API · Selenium · Python
+
+> Educational / demonstration project
+
 
 ## ✨ Key Features
 
