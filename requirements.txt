@@ -1,0 +1,8 @@
+flask
+twilio
+python-dotenv
+selenium
+webdriver-manager
+pandas
+requests
+beautifulsoup4
